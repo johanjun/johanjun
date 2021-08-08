@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 ### 🏃 My Careers on
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanjun-jo-343a06144/)](https://www.linkedin.com/in/hanjun-jo-343a06144/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johanjun.me@gmail.com)](mailto:johanjun.me@gmail.com)
 ---
 ### 💻 Languages and Tools
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/johanjun)](https://github.com/johanjun)
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white&link=https://github.com/johanjun)](https://github.com/johanjun)
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white&link=https://github.com/johanjun)](https://github.com/johanjun)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johanjun.me@gmail.com)](mailto:johanjun.me@gmail.com)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/johanjun)](https://github.com/johanjun)
 
 ---
