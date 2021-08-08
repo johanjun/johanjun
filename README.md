@@ -14,32 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=johanjun.johanjun" alt="visitor badge"/>
-</p>
+-->
 
-
-
-### 🏃 My Careers
-
-<a href="https://www.linkedin.com/in/hanjun-jo-343a06144/">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-</br>
-
+### 🏃 My Careers on
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanjun-jo-343a06144/)](https://www.linkedin.com/in/hanjun-jo-343a06144/)
 ---
 ### 💻 Languages and Tools
- <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white">
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-#FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/johanjun) 
-
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/johanjun)](https://github.com/johanjun) 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/johanjun)](https://github.com/johanjun)
+[![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white&link=https://github.com/johanjun)](https://github.com/johanjun)
+[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white&link=https://github.com/johanjun)](https://github.com/johanjun)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johanjun.me@gmail.com)](mailto:johanjun.me@gmail.com)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/johanjun)](https://github.com/johanjun)
 
 ---
-</br>
-
 ### 🌱 I’m currently learning ...
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johanjun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Johanjun's Github Stats">
-</p>
+![Google Developers Machine Learning Bootcamp](https://img.shields.io/badge/Google-4285F4?style=flat&logo=Google&link=https://events.withgoogle.com/google-developers-mlb-kr-2021/)
+[Developers Machine Learning Bootcamp KR 2021](https://events.withgoogle.com/google-developers-mlb-kr-2021/)
 
--->
+---
+
+<a href="https://github.com/johanjun">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=johanjun&show_icons=true&theme=tokyonight&line_height=27" alt="Johanjun's github stats"/>
+</a>
+
