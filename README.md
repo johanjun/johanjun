@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 ![Google Developers Machine Learning Bootcamp](https://img.shields.io/badge/Google-4285F4?style=flat&logo=Google&link=https://events.withgoogle.com/google-developers-mlb-kr-2021/)
 [Developers Machine Learning Bootcamp KR 2021](https://events.withgoogle.com/google-developers-mlb-kr-2021/)
 
+![Leetcode](https://img.shields.io/badge/Leetcode-4285F4?style=flat&logo=Leetcode&link=https://leetcode.com/johanjun_me/)
+[Leetcode](https://leetcode.com/johanjun_me/)
+
 ---
 
 <a href="https://github.com/johanjun">
